@@ -1,0 +1,44 @@
+#B{
+	color:mediumpurple;
+	text-aLign:left;
+	margin:20px;
+	padding:10px;
+}
+#one{
+	color:mediumaquamarine;
+	text-aLine: left;
+	margin:40px;
+	padding:5px;
+}
+#two{
+	color:lightblue;
+}
+a{
+	color:lime;
+	text-aLign:left;
+	margin:80px;
+}
+img{
+	width:300px;
+	height:400px;
+	min-width:465px;
+}
+input.Mybutton{
+	width:300px;
+	padding:20px;
+	cursor:pointer;
+	font-weight:bold;
+	fon-size:150%;
+	background:#2E2EFE;
+	color: #fff;
+	border:2px solid #2E2EFE;
+	border-radius: 10px;
+}
+input.Mybutton:hover{
+	color:#fff00;
+	background:#000;
+	border:2px solid #fff;
+}
+body{
+	background-color: red;
+}
